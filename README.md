@@ -85,14 +85,13 @@ The Deployment phase is cricial. To complete this phase follow following steps-
 
 
 ## 🛠 Skills
-- Pandas
+- Tensorflow
 - Python
 - Streamlit
-- Statistics
-- Scikit-Learn
-- Data Cleaning
-- Jupyter Notebook or Google Colab
-- 
+- Numpy
+- OpenCV
+- Keras
+
 
 
 
