@@ -6,14 +6,13 @@ An Image Caption Generator is an advanced AI system that combines computer visio
 ## Table of Contents
 #### Getting Started
 Make sure you have the foloowing installed on your system-
+- Tensorflow
+- Python
+- Streamlit
+- Numpy
+- Keras
 
-- python 
-- loblib == 1.3.2
-- numpy == 1.24.2
-- pandas == 2.0.2
-- scikit-learn == 1.3.2
-- streamlit == 1.28.0
-- xgboost == 2.0.1
+
 
 You can also get this libraries in requirements.txt
 
@@ -89,7 +88,6 @@ The Deployment phase is cricial. To complete this phase follow following steps-
 - Python
 - Streamlit
 - Numpy
-- OpenCV
 - Keras
 
 
